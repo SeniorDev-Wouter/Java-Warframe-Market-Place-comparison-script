@@ -1,0 +1,10 @@
+{"difference":13,"item":"Gauss Prime Blueprint","buyer":"mydudaishardprime","seller":"letbrotherfly","rank":0}
+{"difference":12,"item":"Silva \u0026 Aegis Prime Set","buyer":"GuardVid","seller":"wwwGAVROSHwww","rank":0}
+{"difference":10,"item":"Gauss Prime Systems Blueprint","buyer":"mydudaishardprime","seller":"Terrasoar","rank":0}
+{"difference":10,"item":"Gauss Prime Systems Blueprint","buyer":"mydudaishardprime","seller":"Terrasoar","rank":0}
+{"difference":2,"item":"Guandao Prime Blade","buyer":"xiaohuasheng2","seller":"Trechno27","rank":0}
+{"difference":2,"item":"Dual Keres Prime Set","buyer":"Onebest835","seller":"ALARM201","rank":0}
+{"difference":1,"item":"Grendel Prime Systems Blueprint","buyer":"SMARTPAPI","seller":"4stSyrup","rank":0}
+{"difference":1,"item":"Nezha Prime Neuroptics Blueprint","buyer":"Apithy627","seller":"ATHANAT0R","rank":0}
+{"difference":1,"item":"Nautilus Prime Systems","buyer":"ahzuii5059","seller":"kelzad81","rank":0}
+{"difference":1,"item":"Braton Prime Receiver","buyer":"kz201","seller":"RunYouMuppets","rank":0}

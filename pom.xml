@@ -7,19 +7,26 @@
     <groupId>org.example</groupId>
     <artifactId>warfrM</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <dependencies>
         <!-- HTTP Client -->
         <dependency>
-            <groupId>org.apache.httpcomponents</groupId>
-            <artifactId>httpclient</artifactId>
-            <version>4.5.13</version>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>4.12.0</version> <!-- or the latest version -->
+        </dependency>
+
+        <dependency>
+            <groupId>me.tongfei</groupId>
+            <artifactId>progressbar</artifactId>
+            <version>0.9.5</version> <!-- or the latest version -->
         </dependency>
 
         <!-- JSON Processing -->
         <dependency>
-            <groupId>org.json</groupId>
-            <artifactId>json</artifactId>
-            <version>20210307</version>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.11.0</version>
         </dependency>
 
         <!-- JUnit for testing (optional) -->
@@ -37,7 +44,6 @@
             <version>0.9.2</version>
         </dependency>
     </dependencies>
-
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
