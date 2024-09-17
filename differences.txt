@@ -1,10 +1,10 @@
-{"difference":13,"item":"Gauss Prime Blueprint","buyer":"mydudaishardprime","seller":"letbrotherfly","rank":0}
-{"difference":12,"item":"Silva \u0026 Aegis Prime Set","buyer":"GuardVid","seller":"wwwGAVROSHwww","rank":0}
-{"difference":10,"item":"Gauss Prime Systems Blueprint","buyer":"mydudaishardprime","seller":"Terrasoar","rank":0}
-{"difference":10,"item":"Gauss Prime Systems Blueprint","buyer":"mydudaishardprime","seller":"Terrasoar","rank":0}
-{"difference":2,"item":"Guandao Prime Blade","buyer":"xiaohuasheng2","seller":"Trechno27","rank":0}
-{"difference":2,"item":"Dual Keres Prime Set","buyer":"Onebest835","seller":"ALARM201","rank":0}
-{"difference":1,"item":"Grendel Prime Systems Blueprint","buyer":"SMARTPAPI","seller":"4stSyrup","rank":0}
-{"difference":1,"item":"Nezha Prime Neuroptics Blueprint","buyer":"Apithy627","seller":"ATHANAT0R","rank":0}
-{"difference":1,"item":"Nautilus Prime Systems","buyer":"ahzuii5059","seller":"kelzad81","rank":0}
-{"difference":1,"item":"Braton Prime Receiver","buyer":"kz201","seller":"RunYouMuppets","rank":0}
+{"difference":3,"item":"Dual Keres Prime Set","buyer":"Onebest835","seller":"Dan1el128","rank":0}
+{"difference":3,"item":"Galatine Prime Handle","buyer":"Komap22","seller":"Trechno27","rank":0}
+{"difference":2,"item":"Ankyros Prime Gauntlet","buyer":"Komap22","seller":"Rureha","rank":0}
+{"difference":1,"item":"Okina Prime Blueprint","buyer":"ZXZandCF","seller":"Kpcika","rank":0}
+{"difference":1,"item":"Protea Prime Neuroptics Blueprint","buyer":"ULTIMATE_SAG","seller":"LazyFox96","rank":0}
+{"difference":1,"item":"Protea Prime Systems Blueprint","buyer":"edef555","seller":"Kurushimure","rank":0}
+{"difference":1,"item":"Volnus Prime Head","buyer":"Cheopz","seller":"Fabiiik","rank":0}
+{"difference":1,"item":"Nezha Prime Neuroptics Blueprint","buyer":"Apithy627","seller":"explodingoctopus","rank":0}
+{"difference":0,"item":"Zylok Prime Blueprint","buyer":"xiamoqq","seller":"begemoot","rank":0}
+{"difference":0,"item":"Ninkondi Prime Chain","buyer":"HeatWalk","seller":"Trechno27","rank":0}

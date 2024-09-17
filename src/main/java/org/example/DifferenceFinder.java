@@ -36,7 +36,7 @@ public class DifferenceFinder {
 
         System.out.println("Processing " + selectedItems.size() + " items out of " + filteredItems.size() + " filtered items.");
 
-        List<Difference> differences = new ArrayList<>();
+        Set<Difference> differences = new HashSet<>();
 
         try (ProgressBar pb = new ProgressBar("Processing items", selectedItems.size())) {
             for (JsonObject item : selectedItems) {
@@ -65,7 +65,9 @@ public class DifferenceFinder {
                     JsonObject lowestSellOrder = Collections.min(rankOrders.sell, Comparator.comparing(o -> o.get("platinum").getAsInt()));
 
                     int difference = highestBuyOrder.get("platinum").getAsInt() - lowestSellOrder.get("platinum").getAsInt();
-                    differences.add(new Difference(difference, item.get("item_name").getAsString(), highestBuyOrder.getAsJsonObject("user").get("ingame_name").getAsString(), lowestSellOrder.getAsJsonObject("user").get("ingame_name").getAsString(), rank));
+                    Difference newDifference = new Difference(difference, item.get("item_name").getAsString(), highestBuyOrder.getAsJsonObject("user").get("ingame_name").getAsString(), lowestSellOrder.getAsJsonObject("user").get("ingame_name").getAsString(), rank);
+
+                    differences.add(newDifference);
                 }
 
                 TimeUnit.MILLISECONDS.sleep(250);
@@ -76,8 +78,10 @@ public class DifferenceFinder {
         List<Difference> currentDifferences = readDifferencesFromFile();
         differences.addAll(currentDifferences);
 
-        differences.sort(Comparator.comparingInt(d -> -d.difference));
-        List<Difference> top10 = differences.subList(0, Math.min(10, differences.size()));
+        List<Difference> sortedDifferences = new ArrayList<>(differences);
+        sortedDifferences.sort(Comparator.comparingInt(d -> -d.difference));
+
+        List<Difference> top10 = sortedDifferences.subList(0, Math.min(10, sortedDifferences.size()));
 
         writeDifferencesToFile(top10);
 
