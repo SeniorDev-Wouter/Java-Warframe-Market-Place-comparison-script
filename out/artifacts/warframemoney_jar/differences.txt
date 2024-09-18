@@ -1,0 +1,10 @@
+{"difference":49,"item":"Corinth Prime Set","buyer":"terracottafang","seller":"Tonyshark116","rank":0}
+{"difference":13,"item":"Gauss Prime Blueprint","buyer":"mydudaishardprime","seller":"Volendter","rank":0}
+{"difference":12,"item":"Gunsen Prime Set","buyer":"QuesoKnight","seller":"SkillHunter777","rank":0}
+{"difference":10,"item":"Primed Expel Grineer","buyer":"-pdf","seller":"AnderOut","rank":0}
+{"difference":9,"item":"Masseter Prime Set","buyer":"conratos","seller":"GTFlo84","rank":0}
+{"difference":8,"item":"Gauss Prime Systems Blueprint","buyer":"mydudaishardprime","seller":"Sensicall44","rank":0}
+{"difference":7,"item":"Gauss Prime Systems Blueprint","buyer":"mydudaishardprime","seller":"zreku","rank":0}
+{"difference":6,"item":"Octavia Prime Blueprint","buyer":"Genius0203","seller":"TheParallel25","rank":0}
+{"difference":5,"item":"Cobra \u0026 Crane Prime Set","buyer":"QuesoKnight","seller":"Gurchy.","rank":0}
+{"difference":1,"item":"Helios Prime Blueprint","buyer":"PrinceKuro","seller":"Tutururu","rank":0}

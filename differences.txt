@@ -1,10 +1,10 @@
-{"difference":3,"item":"Dual Keres Prime Set","buyer":"Onebest835","seller":"Dan1el128","rank":0}
-{"difference":3,"item":"Galatine Prime Handle","buyer":"Komap22","seller":"Trechno27","rank":0}
-{"difference":2,"item":"Ankyros Prime Gauntlet","buyer":"Komap22","seller":"Rureha","rank":0}
-{"difference":1,"item":"Okina Prime Blueprint","buyer":"ZXZandCF","seller":"Kpcika","rank":0}
-{"difference":1,"item":"Protea Prime Neuroptics Blueprint","buyer":"ULTIMATE_SAG","seller":"LazyFox96","rank":0}
-{"difference":1,"item":"Protea Prime Systems Blueprint","buyer":"edef555","seller":"Kurushimure","rank":0}
-{"difference":1,"item":"Volnus Prime Head","buyer":"Cheopz","seller":"Fabiiik","rank":0}
-{"difference":1,"item":"Nezha Prime Neuroptics Blueprint","buyer":"Apithy627","seller":"explodingoctopus","rank":0}
-{"difference":0,"item":"Zylok Prime Blueprint","buyer":"xiamoqq","seller":"begemoot","rank":0}
-{"difference":0,"item":"Ninkondi Prime Chain","buyer":"HeatWalk","seller":"Trechno27","rank":0}
+{"difference":12,"item":"Gauss Prime Blueprint","buyer":"mydudaishardprime","seller":"Shulimberg","rank":0}
+{"difference":10,"item":"Primed Expel Grineer","buyer":"-pdf","seller":"AnderOut","rank":0}
+{"difference":8,"item":"Zephyr Prime Blueprint","buyer":"wrinhPrime","seller":"Nexiferaprime","rank":0}
+{"difference":5,"item":"Chroma Prime Set","buyer":"JennethBlackray","seller":"Theximiraice","rank":0}
+{"difference":5,"item":"Reaper Prime Handle","buyer":"KaiBeeGun","seller":"ECOBunnyPrime","rank":0}
+{"difference":3,"item":"Burston Prime Set","buyer":"Real_Power","seller":"Poulpo86","rank":0}
+{"difference":3,"item":"Octavia Prime Blueprint","buyer":"Genius0203","seller":"._Yui_.","rank":0}
+{"difference":2,"item":"Braton Prime Receiver","buyer":"Tenno19864","seller":"RunYouMuppets","rank":0}
+{"difference":2,"item":"Khora Prime Blueprint","buyer":"Leaten","seller":"Sraxyz","rank":0}
+{"difference":2,"item":"Molt Augmented","buyer":"Novazeus97","seller":"HealTheWorld2k","rank":0}
